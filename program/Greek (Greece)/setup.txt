@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Ελληνικά"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Εγκατάσταση Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Διατηρεί τα πλαίσια επιλογών σας καθαρά."
@@ -14,6 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "&Φάκελος προορισμού"
 IDS_EXTRACTRL_FOLDER_BROWSE "Εύ&ρεση..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Επιλέξτε το φάκελο που θα εγκατασταθεί το Unchecky:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Δημιουργία &συντόμευσης στην επιφάνεια εργασίας"
 IDS_FINISHCTRL_TITLE    "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί!"
 IDS_FINISHCTRL_TEXT     "Συγχαρητήρια! Το Unchecky έχει εγκατασταθεί με επιτυχία στον υπολογιστή σας.\n\nΗ υπηρεσία Unchecky θα εκτελείται συνεχώς στο παρασκήνιο, παρακολουθώντας τους εγκαταστάτες σας. Μπορείτε να ξεκινήσετε το Unchecky οποιαδήποτε στιγμή από το εικονίδιο στην επιφάνεια εργασίας για να δείτε πόσα πλαίσια ελέγχου έχουν αποεπιλεγεί."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
